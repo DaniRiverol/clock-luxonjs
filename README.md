@@ -1,7 +1,7 @@
 
 # Clock Luxon.js
 
-Proyecto que muestra un reloj digital junto con la ubicación del usuario
+Proyecto que muestra un reloj digital junto con la ubicación del usuario utilizando la librería Luxon.js
 
 
 ## Authors
